@@ -1,0 +1,23 @@
+.carousel-item{
+  width: 100%;
+  height: 90vh;
+}
+.carousel-item.item-1{
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/slide1.png);
+}
+.carousel-item.item-2{
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/slide2.png);
+}
+.carousel-item.item-3{
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/slide3.png);
+}
+.carousel-caption{
+  text-align: left;
+  bottom: 100px;
+}
